@@ -9,4 +9,10 @@ public class Example
 	{
 		System.out.println("Welcome Maven to Deepak World :) ");
 	}
+	
+	@Test
+	public void printAnotherName()
+	{
+		System.out.println("No Other Example :)");
+	}
 }
